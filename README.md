@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gavin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data and Operations Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Former Photographer</a></h1>
+<h1>Hi, I'm Gavin! <br/><a href="https://github.com/GavinSangha93">Programmer</a>, <a href="https://www.linkedin.com/in/gavinsangha/">Data and Operations Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Former Photographer</a></h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
