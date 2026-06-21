@@ -2,7 +2,13 @@
 
 <h2>About Me</h2>
 
-Aspiring Analyst with experience using SQL, Excel, Tableau, and Power BI to clean, analyze, and visualize data. This portfolio showcases projects focused on transforming raw datasets into actionable business insights through data storytelling and business intelligence.
+Early-career analytics and business professional with a Bachelor’s degree in Information Systems and Operations Management (ISOM) and hands-on experience using SQL, Excel, Tableau, and Power BI to transform data into actionable business insights.
+
+This portfolio showcases projects focused on solving real-world business problems through data cleaning, analysis, dashboard development, and data storytelling. Each project demonstrates the ability to translate raw data into meaningful insights that support strategic decision-making, operational efficiency, and business performance improvement.
+
+My academic background combines technical, analytical, and business-oriented problem-solving skills, allowing me to bridge the gap between data, technology, and business operations.
+
+I am interested in opportunities across analytics, business intelligence, information systems, operations, and business support functions where I can leverage data-driven thinking to improve processes, support stakeholders, and contribute to organizational goals.
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -10,6 +16,39 @@ Aspiring Analyst with experience using SQL, Excel, Tableau, and Power BI to clea
 - [Bike Sales Dashboard](https://github.com/GavinSangha93/Bike-Sales-Dashboard)
 - [AirBnB Market Analysis](https://github.com/GavinSangha93/AirBnB-Market-Analysis)
 - [Data Professional Survey Analysis](https://github.com/GavinSangha93/Data-Professional-Survey-Analysis)
+
+<h2>Technical Skills</h2>
+
+<b>Data & Analytics</b>
+
+- SQL (MySQL)
+- Microsoft Excel
+- Tableau
+- Power BI
+
+<b>Analysis & Visualization</b>
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Exploratory Data Analysis (EDA)
+- Data Storytelling
+- KPI Development
+
+<b>Business & Operations</b>
+
+- Business Intelligence
+- Data Transformation
+- Process Improvement
+- Business Problem Solving
+- Decision Support
+
+<b>Core Competencies</b>
+
+- Analytical Thinking
+- Stakeholder Communication
+- Attention to Detail
+- Cross-Functional Collaboration
 
 <h2> 🤳 Connect with me:</h2>
 
