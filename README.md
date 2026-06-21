@@ -1,16 +1,15 @@
-<h1>Hi, I'm Gavin! <br/><a href="https://github.com/GavinSangha93">Programmer</a>, <a href="https://www.linkedin.com/in/gavinsangha/">Data and Operations Analyst</a>
+<h1>Hello, I'm Gavin! 
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>About Me</h2>
 
+Aspiring Analyst with experience using SQL, Excel, Tableau, and Power BI to clean, analyze, and visualize data. This portfolio showcases projects focused on transforming raw datasets into actionable business insights through data storytelling and business intelligence.
 
+<h2>👨‍💻 Projects:</h2>
 
-<h2>📺 Dashboard Projects</h2>
-
-- 
-- 
-- 
--
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Global Layoffs Data CLeaning](https://github.com/GavinSangha93/Global-Layoffs-Data-Cleaning)
+- [Bike Sales Dashboard](https://github.com/GavinSangha93/Bike-Sales-Dashboard)
+- [AirBnB Market Analysis](https://github.com/GavinSangha93/AirBnB-Market-Analysis)
+- [Data Professional Survey Analysis](https://github.com/GavinSangha93/Data-Professional-Survey-Analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
