@@ -12,6 +12,7 @@ I am interested in opportunities across analytics, business intelligence, inform
 
 <h2>👨‍💻 Projects:</h2>
 
+- [Medical Appointment No-Show Analysis](https://github.com/GavinSangha93/Medical-Appointments)
 - [Global Layoffs Data CLeaning](https://github.com/GavinSangha93/Global-Layoffs-Data-Cleaning)
 - [Bike Sales Dashboard](https://github.com/GavinSangha93/Bike-Sales-Dashboard)
 - [AirBnB Market Analysis](https://github.com/GavinSangha93/AirBnB-Market-Analysis)
