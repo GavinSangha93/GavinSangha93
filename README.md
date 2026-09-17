@@ -1,73 +1,21 @@
-<h1>Hello, I'm Gavin! 
+# Hi, I'm Gavin Sangha
 
-<h2>About Me</h2>
+I’m a business, data, and operations analyst with a B.S. in Information Systems and Operations Management from George Mason University. My background includes operations and marketing analytics, and I use SQL, Excel, Tableau, and Power BI to turn raw data into clear reporting and practical business insights.
 
-Early-career analytics and business professional with a Bachelor’s degree in Information Systems and Operations Management (ISOM) and hands-on experience using SQL, Excel, Tableau, and Power BI to transform data into actionable business insights.
+I’m based in Northern Virginia and open to analyst opportunities across the DMV, including hybrid, onsite, and remote roles.
 
-This portfolio showcases projects focused on solving real-world business problems through data cleaning, analysis, dashboard development, and data storytelling. Each project demonstrates the ability to translate raw data into meaningful insights that support strategic decision-making, operational efficiency, and business performance improvement.
+[View my portfolio website](https://gavinsangha93.github.io/GavinSanghaPortfolio.github-io/) · [Connect with me on LinkedIn](https://www.linkedin.com/in/gavinsangha/)
 
-My academic background combines technical, analytical, and business-oriented problem-solving skills, allowing me to bridge the gap between data, technology, and business operations.
+## Featured Projects
 
-I am interested in opportunities across analytics, business intelligence, information systems, operations, and business support functions where I can leverage data-driven thinking to improve processes, support stakeholders, and contribute to organizational goals.
+- [Medical Appointment No-Show Analysis](https://github.com/GavinSangha93/Medical-Appointments) — MySQL and Tableau project examining missed appointments, scheduling lead time, neighborhoods, and rule-based outreach tiers.
+- [Global Layoffs Data Cleaning](https://github.com/GavinSangha93/Global-Layoffs-Data-Cleaning) — MySQL workflow covering staging, duplicate removal, standardization, null handling, and date conversion.
+- [Bike Sales Dashboard](https://github.com/GavinSangha93/Bike-Sales-Dashboard) — Excel dashboard exploring customer demographics and purchase behavior with PivotTables, PivotCharts, and slicers.
+- [Airbnb Market Analysis](https://github.com/GavinSangha93/AirBnB-Market-Analysis) — Tableau dashboard comparing listing prices, property size, location, inventory, and calendar trends.
+- [Data Professional Survey Analysis](https://github.com/GavinSangha93/Data-Professional-Survey-Analysis) — Power BI dashboard summarizing salary, career satisfaction, programming-language preferences, and entry difficulty.
 
-<h2>👨‍💻 Projects:</h2>
+## Core Skills
 
-- [Medical Appointment No-Show Analysis](https://github.com/GavinSangha93/Medical-Appointments)
-- [Global Layoffs Data CLeaning](https://github.com/GavinSangha93/Global-Layoffs-Data-Cleaning)
-- [Bike Sales Dashboard](https://github.com/GavinSangha93/Bike-Sales-Dashboard)
-- [AirBnB Market Analysis](https://github.com/GavinSangha93/AirBnB-Market-Analysis)
-- [Data Professional Survey Analysis](https://github.com/GavinSangha93/Data-Professional-Survey-Analysis)
-
-<h2>Technical Skills</h2>
-
-<b>Data & Analytics</b>
-
-- SQL (MySQL)
-- Microsoft Excel
-- Tableau
-- Power BI
-
-<b>Analysis & Visualization</b>
-
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Exploratory Data Analysis (EDA)
-- Data Storytelling
-- KPI Development
-
-<b>Business & Operations</b>
-
-- Business Intelligence
-- Data Transformation
-- Process Improvement
-- Business Problem Solving
-- Decision Support
-
-<b>Core Competencies</b>
-
-- Analytical Thinking
-- Stakeholder Communication
-- Attention to Detail
-- Cross-Functional Collaboration
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="GavinSangha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/gavinsangha/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Analytics:** SQL (MySQL), Microsoft Excel, Tableau, Power BI  
+**Methods:** Data cleaning, exploratory analysis, KPI development, dashboard design, data visualization  
+**Business:** Reporting, process improvement, stakeholder communication, decision support
