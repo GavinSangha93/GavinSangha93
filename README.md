@@ -1,6 +1,6 @@
 # Hi, I'm Gavin Sangha
 
-I’m a business, data, and operations analyst with a B.S. in Information Systems and Operations Management from George Mason University. My background includes operations and marketing analytics, and I use SQL, Excel, Tableau, and Power BI to turn raw data into clear reporting and practical business insights.
+I’m a business, data, and operations analyst with a B.S. in Information Systems and Operations Management from George Mason University. My background includes operations, fraud analysis, and independent client work, and I use SQL, Excel, Tableau, and Power BI to turn raw data into clear reporting and practical business insights.
 
 I’m based in Northern Virginia and open to analyst opportunities across the DMV, including hybrid, onsite, and remote roles.
 
